@@ -2,7 +2,7 @@
 <!-- 
 ![Caleb's's github stats](https://github-readme-stats.vercel.app/api?username=calebruhm)
  -->
- [![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebruhm)](https://github.com/calebruhm/github-readme-stats)
+ [![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebruhm)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **CalebRuhm/CalebRuhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
