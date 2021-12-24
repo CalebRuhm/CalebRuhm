@@ -16,7 +16,7 @@ I'm a junior developer from upstate NY working my way into the coding world!
 ![GitHub last commit](https://img.shields.io/github/last-commit/calebruhm/Caleb-Ruhm-Portfolio?color=bb9af7&label=Last%20Update&style=for-the-badge)
 
 ## GutHub Stats
-[![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebruhm&icon_color=bb9af7&title_color=bb9af7&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calebruhm&theme=dark&show_icons=true&layout=compact&title_color=bb9af7)](https://github.com/anuraghazra/github-readme-stats)
+[![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebruhm&icon_color=bb9af7&title_color=bb9af7&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calebruhm&theme=dark&show_icons=true&layout=compact&title_color=bb9af7)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=calebruhm&bg_color=151515&line=bb9af7&point=ffffff&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 ## Connect with me
