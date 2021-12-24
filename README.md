@@ -13,15 +13,16 @@
   <img align="left" alt="Caleb's Portfolio Website" width="32px" src="assets/globe-solid.svg" />
 </a>
 <a href="https://www.linkedin.com/in/caleb-ruhm-329450192/" target="_blank">
-  <img align="left" alt="Caleb's LinkedIN" width="22px" src="assets/linkedin-in-brands.svg" />
+  <img align="left" alt="Caleb's LinkedIN" width="32px" src="assets/linkedin-in-brands.svg" />
 </a>
 <a href="https://codepen.io/calebruhm" target="_blank">
-  <img align="left" alt="Caleb's CodePen" width="22px" src="assets/codepen-brands.svg" />
+  <img align="left" alt="Caleb's CodePen" width="32px" src="assets/codepen-brands.svg" />
 </a>
 <a href="https://www.instagram.com/relaxcaleb/" target="_blank">
-  <img align="left" alt="Caleb's Instagram" width="22px" src="assets/instagram-brands.svg" />
+  <img align="left" alt="Caleb's Instagram" width="32px" src="assets/instagram-brands.svg" />
 </a>
 </p>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
