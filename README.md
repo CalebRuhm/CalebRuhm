@@ -40,6 +40,8 @@
 [![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebruhm&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=calebruhm&label=Profile%20views&color=bb9af7&style=flat" alt="calebruhm" /> </p> <img src="https://media3.giphy.com/media/mQccofI8uBuUAgJP30/giphy.gif" width="30px">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=calebruhm&label=Profile%20views&color=bb9af7&style=flat" alt="calebruhm" /> 
+ <img src="https://media3.giphy.com/media/mQccofI8uBuUAgJP30/giphy.gif" width="30px">
 
+</p>
 [Website]: https://calebruhm.github.io/Caleb-Ruhm---Portfolio//
