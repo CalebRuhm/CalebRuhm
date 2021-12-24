@@ -32,10 +32,10 @@
     <img src="assets/html5-brands.svg" alt="html5" width="32" height="32"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="assets/node-js-brands.svg" alt="javascript" width="32" height="32"/> </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="assets/adobe-illustrator.svg" alt="illustrator" width="32" height="32"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     <img src="assets/adobe-photoshop.svg" alt="photoshop" width="32" height="32"/> </a> 
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
+    <img src="assets/adobe-illustrator.svg" alt="illustrator" width="32" height="32"/> </a> 
   <a href="https://lightroom.adobe.com/" target="_blank" rel="noreferrer"> 
     <img src="assets/adobe-lightroom.svg" alt="lightroom" width="32" height="32"/> </a> 
 </p>
