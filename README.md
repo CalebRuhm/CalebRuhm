@@ -1,11 +1,11 @@
 # Hi there, I'm Caleb - aka Keegs <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-## I'm a Skier, Developer, Photographer and Musician!
+## I'm a Developer, Skier, Photographer and Musician!
 - :pencil2: I’m currently working on  my portfolio [website].
 - :briefcase: I’m currently learning JS, DOM, and APIs.
 - :school: I’m looking to learn more about React, IOS app development and Jailbreak tweaks.
 - 📫 How to reach me: ruhmc0619@gmail.com
-- ⚡ Fun fact: I have and eidetic memory! :brain:
+- ⚡ Fun fact: I have an eidetic memory! :brain:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
