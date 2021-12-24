@@ -9,8 +9,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/caleb-ruhm-329450192/">
+<a href="https://www.calebruhm.com" target="_blank">
+  <img align="left" alt="Caleb's Portfolio Website" width="32px" src="assets/globe-solid.svg" />
+</a>
+<a href="https://www.linkedin.com/in/caleb-ruhm-329450192/" target="_blank">
   <img align="left" alt="Caleb's LinkedIN" width="22px" src="" />
+</a>
+<a href="https://codepen.io/calebruhm" target="_blank">
+  <img align="left" alt="Caleb's CodePen" width="22px" src="" />
+</a>
+<a href="https://www.instagram.com/relaxcaleb/" target="_blank">
+  <img align="left" alt="Caleb's Instagram" width="22px" src="" />
 </a>
 </p>
 
