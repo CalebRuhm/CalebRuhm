@@ -1,4 +1,4 @@
-<img src="https://media3.giphy.com/media/ADXIRX7CXEs0DHIRmo/giphy.gif?cid=790b761135471bf0e038f727ffbbb01f936fd841677a57a4&rid=giphy.gif&ct=g" width="1200px">
+<img src="https://media4.giphy.com/media/T7mfb5jSNhyXNskkKC/200.gif?cid=790b7611b1021c04c5268b4caf5f932ae37830e1344c7c45&rid=200.gif&ct=g" width="1200px">
 
 # Hi there, I'm Caleb - aka Keegs <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 I'm a junior developer from Saratoga Springs NY working my way into the coding world. 
@@ -27,3 +27,5 @@ This is **only** a representation of my public data available
 
 ## Thank You!
 <img src="https://komarev.com/ghpvc/?username=calebruhm&label=Profile%20views&color=bb9af7&style=flat-square&label=Views" alt="calebruhm" />
+
+<img src="https://media4.giphy.com/media/T7mfb5jSNhyXNskkKC/200.gif?cid=790b7611b1021c04c5268b4caf5f932ae37830e1344c7c45&rid=200.gif&ct=g" width="1200px">
