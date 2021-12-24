@@ -1,3 +1,5 @@
+<img src="https://media3.giphy.com/media/ADXIRX7CXEs0DHIRmo/giphy.gif?cid=790b761135471bf0e038f727ffbbb01f936fd841677a57a4&rid=giphy.gif&ct=g" width="1200px">
+
 # Hi there, I'm Caleb - aka Keegs <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 I'm a junior developer from Saratoga Springs NY working my way into the coding world. 
 
