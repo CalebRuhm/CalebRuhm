@@ -1,9 +1,7 @@
 <img src="https://media4.giphy.com/media/T7mfb5jSNhyXNskkKC/200.gif?cid=790b7611b1021c04c5268b4caf5f932ae37830e1344c7c45&rid=200.gif&ct=g" width="1200px">
 
 # Hi there, I'm Caleb - aka Keegs <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-I'm a junior developer from Saratoga Springs NY working my way into the coding world. 
-
-## I'm a  Developer, Skier, Photographer and More!
+I'm a junior developer from upstate NY working my way into the coding world!
 - ✏️ I’m currently working on building more projects!
 - 💼 I’m learning JS, DOM, and APIs.
 - 🏫 I'm looking to learn more about React, IOS app development and Jailbreak tweaks.
