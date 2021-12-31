@@ -12,7 +12,7 @@ I'm a junior developer from upstate NY working my way into the coding world!
 
 <!-- Sorry for the base64 spam. Let me know if there is a better way to approach this! -->
 
-## Portfolio | [CalebRuhm](https://calebruhm.github.io/Caleb-Ruhm-Portfolio/)
+## Portfolio | [CalebRuhm](https://www.calebruhm.com/)
 ![GitHub last commit](https://img.shields.io/github/last-commit/calebruhm/Caleb-Ruhm-Portfolio?color=bb9af7&label=Last%20Update&style=for-the-badge)
 
 ## GutHub Stats
