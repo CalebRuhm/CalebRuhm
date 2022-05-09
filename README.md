@@ -3,7 +3,7 @@
 # Hi there, I'm Caleb - aka Keegs <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 I'm a junior developer from upstate NY working my way into the coding world!
 - ✏️ I’m currently working on a retrospective board!
-- 💼 I’m learning React and TypeScript.
+- 💼 I’m learning React, TypeScript and Zustand.
 - 🏫 I'm looking to learn more about IOS/Android app development.
 - 🧠 Fun fact: I have an eidetic memory!
 
