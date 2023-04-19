@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/T7mfb5jSNhyXNskkKC/200.gif?cid=790b7611b1021c04c5268b4caf5f932ae37830e1344c7c45&rid=200.gif&ct=g" width="1200px">
+<!-- <img src="https://media4.giphy.com/media/T7mfb5jSNhyXNskkKC/200.gif?cid=790b7611b1021c04c5268b4caf5f932ae37830e1344c7c45&rid=200.gif&ct=g" width="1200px"> -->
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Caleb - aka Keegs 
 - ✏️ I’m currently working as a Software Developer for Davin Healthcare Software Solutions!
@@ -18,4 +18,4 @@
 
 ## Thank You!
 
-<img src="https://media4.giphy.com/media/T7mfb5jSNhyXNskkKC/200.gif?cid=790b7611b1021c04c5268b4caf5f932ae37830e1344c7c45&rid=200.gif&ct=g" width="1200px">
+<!-- <img src="https://media4.giphy.com/media/T7mfb5jSNhyXNskkKC/200.gif?cid=790b7611b1021c04c5268b4caf5f932ae37830e1344c7c45&rid=200.gif&ct=g" width="1200px"> -->
