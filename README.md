@@ -3,7 +3,7 @@
 # Hi there, I'm Caleb - aka Keegs <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 I'm a junior developer from upstate NY working my way into the coding world!
 - ✏️ I’m currently working as a Software Developer for Davin Healthcare Software Solutions!
-- 💼 I’m learning back-end automation and mobile development. ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- 💼 I’m learning back-end automation and mobile development.
 - 🏫 I'm looking to learn more about Azure, GCP and AWS Cloud development.
 
 ## Skills / Tools
