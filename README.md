@@ -1,7 +1,6 @@
 <img src="https://media4.giphy.com/media/T7mfb5jSNhyXNskkKC/200.gif?cid=790b7611b1021c04c5268b4caf5f932ae37830e1344c7c45&rid=200.gif&ct=g" width="1200px">
 
 # Hi there, I'm Caleb - aka Keegs <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-I'm a junior developer from upstate NY working my way into the coding world!
 - ✏️ I’m currently working as a Software Developer for Davin Healthcare Software Solutions!
 - 💼 I’m learning back-end automation and mobile development.
 - 🏫 I'm looking to learn more about Azure, GCP and AWS Cloud development.
